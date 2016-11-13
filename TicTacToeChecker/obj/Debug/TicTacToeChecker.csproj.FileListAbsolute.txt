@@ -1,0 +1,5 @@
+E:\Katas\TicTacToeChecker\TicTacToeChecker\bin\Debug\TicTacToeChecker.dll
+E:\Katas\TicTacToeChecker\TicTacToeChecker\bin\Debug\TicTacToeChecker.pdb
+E:\Katas\TicTacToeChecker\TicTacToeChecker\obj\Debug\TicTacToeChecker.dll
+E:\Katas\TicTacToeChecker\TicTacToeChecker\obj\Debug\TicTacToeChecker.pdb
+E:\Katas\TicTacToeChecker\TicTacToeChecker\obj\Debug\TicTacToeChecker.csprojResolveAssemblyReference.cache

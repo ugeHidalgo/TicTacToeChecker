@@ -1,0 +1,8 @@
+E:\Katas\TicTacToeChecker\TestTicTacToeChecker\bin\Debug\TestTicTacToeChecker.dll
+E:\Katas\TicTacToeChecker\TestTicTacToeChecker\bin\Debug\TestTicTacToeChecker.pdb
+E:\Katas\TicTacToeChecker\TestTicTacToeChecker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Katas\TicTacToeChecker\TestTicTacToeChecker\bin\Debug\TicTacToeChecker.dll
+E:\Katas\TicTacToeChecker\TestTicTacToeChecker\bin\Debug\TicTacToeChecker.pdb
+E:\Katas\TicTacToeChecker\TestTicTacToeChecker\obj\Debug\TestTicTacToeChecker.csprojResolveAssemblyReference.cache
+E:\Katas\TicTacToeChecker\TestTicTacToeChecker\obj\Debug\TestTicTacToeChecker.dll
+E:\Katas\TicTacToeChecker\TestTicTacToeChecker\obj\Debug\TestTicTacToeChecker.pdb
